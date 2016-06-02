@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Citizen-T/fizzbuzz-js/issues"
   },
-  "homepage": "https://github.com/Citizen-T/fizzbuzz-js#readme"
+  "homepage": "https://github.com/Citizen-T/fizzbuzz-js#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
 }
