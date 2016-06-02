@@ -8,7 +8,7 @@ The Rules
 ---------
 FizzBuzz is one of the most essential katas in your repertoire.  Many an entry-level software engineering interview has been spent working through this problem.  The rules are pretty simple and demonstrate a basic understanding of how to write code.
 
-The challenge is to write a program that, given a positive integer n
+The challenge is to write a program that, given an integer n that is greater than or equal to zero
 
 - Will return the string 'Fizz' when n is divisible by 3
 - Will return the string 'Buzz' when n is divisible by 5
